@@ -1,8 +1,8 @@
 cask "intent-architect@5-4-beta" do
-  version "5.4.0-beta.8"
-  sha256 "1d68595f13325b210a2217bbec1428d9b57370964297f6de3abd06611612f0b1"
+  version "5.4.0-beta.9"
+  sha256 "c6534c7f597dd41b3635238735c7cd86305876f4082047c193a821c000b4bdce"
 
-  url "https://cdn.intentarchitect.com/client/v5/beta/5.4.x/Intent%20Architect%20v5.4.x%20BETA-5.4.0-beta.8-universal.dmg"
+  url "https://cdn.intentarchitect.com/client/v5/beta/5.4.x/Intent%20Architect%20v5.4.x%20BETA-5.4.0-beta.9-universal.dmg"
   name "Intent Architect v5.4.x BETA"
   desc "Software architecture and code generation tool"
   homepage "https://intentarchitect.com/"
